@@ -5,6 +5,7 @@
 * http://florafauna.by/
 * http://wildlife.by/node/30723
 * http://wildlife.by/node/30827
+* http://wildlife.by/node/30946
 * http://insecta-g2n.weebly.com/
 
 ## Красная книга Беларуси
